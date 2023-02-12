@@ -1,4 +1,4 @@
-package arraysandhashing;
+package twopointer;
 
 public class IsPalindrome {
     public boolean isPalindrome(String s) {
